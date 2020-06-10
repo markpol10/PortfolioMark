@@ -2,7 +2,7 @@
 
 
 ////////// Slide container 1 //////////
-
+/*
     $(document).ready(function(){
       $(window).scroll(function(){
         if($(this).scrollTop() >1200){
@@ -244,7 +244,7 @@ $(document).ready(function(){
         }
       })
     })
-
+*/
 
 
 var TxtType = function(el, toRotate, period) {

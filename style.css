@@ -319,7 +319,7 @@ h1 {
 }
 
 /**************		slide container 1	**************/
-
+/*
 .links1 {
 	right: 1000px;
 	transition: 1.8s;
@@ -332,7 +332,7 @@ h1 {
 
 }
 
-/**************		slide container 2	**************/
+/**************		slide container 2	*************
 
 .links2 {
 	right: 1000px;
@@ -347,7 +347,7 @@ h1 {
 }
 
 
-/**************		slide container 3	**************/
+/**************		slide container 3	*************
 
 .links3 {
 	right: 1000px;
@@ -361,7 +361,7 @@ h1 {
 
 }
 
-/**************		slide container 4	**************/
+/**************		slide container 4	**************
 
 .links4 {
 	right: 1000px;
@@ -375,7 +375,7 @@ h1 {
 
 }
 
-/**************		slide container 5	**************/
+/**************		slide container 5	**************
 
 .links5 {
 	right: 1000px;
