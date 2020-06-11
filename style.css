@@ -9,7 +9,7 @@ body {
 
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
+
 }
 
 h1 {
@@ -27,10 +27,6 @@ h1 {
 
 
 
-.topfluid {
-	position: absolute;
-}
-
 .break {
 	border-color: white;
 }
@@ -38,7 +34,7 @@ h1 {
 
 
 .toptekst {
-	height: 100vh;
+	height: 95vh;
 	background-color: #FFF0CE;
 	padding-top: 30vh;
 	padding-left: 9vw;
