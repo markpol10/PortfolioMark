@@ -46,7 +46,7 @@ h1 {
 
 
 
-@media only screen and (max-width: 800px) { 
+@media only screen and (max-width: 600px) { 
 
 	h1 {
 		font-size: 24pt;
@@ -66,7 +66,7 @@ h1 {
 
 }
 
-@media only screen and (max-width: 600px) { 
+@media only screen and (max-width: 500px) { 
 
 	h1 {
 		font-size: 20pt;
@@ -105,7 +105,7 @@ h1 {
 }
 
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 1000px){
 
 	.groot {
 		display: none;
