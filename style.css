@@ -98,7 +98,8 @@ h1 {
 }
 
 .afbeelding2 {
-	width: 80vw;
+	width: 400px;
+	height: 400px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 5%;
